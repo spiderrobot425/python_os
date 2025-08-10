@@ -23,3 +23,6 @@ If you edit this code and break it too much — including any accidental edits t
 You use PyOS at your own risk.
 
 ---
+# Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
+
+Copyright (c) 2025 spiderrobot425
